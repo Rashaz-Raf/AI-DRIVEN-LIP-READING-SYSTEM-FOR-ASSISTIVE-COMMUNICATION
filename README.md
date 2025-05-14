@@ -64,7 +64,7 @@ This project marks a significant advancement in assistive technology by enabling
 Future work will focus on improving robustness to varying lighting and angles, supporting continuous lip movement capture, enabling multilingual speech synthesis, and integrating with wearable devices (e.g., smart glasses).
 
 ## Code
-The full codebase for the **DYNAMIC NARRATIVES** is available [here](https://github.com/Rashaz-Raf/AI_Powered_Video_Synthesis/tree/main/Source_Code).
+The full codebase for the **DYNAMIC NARRATIVES** is available [here](https://github.com/Rashaz-Raf/AI-DRIVEN-LIP-READING-SYSTEM-FOR-ASSISTIVE-COMMUNICATION/tree/main/SOURCE_CODE).
 
 ## Documentation
 Refer to the complete project documentation for detailed insights into the methodology, implementation, and results.
