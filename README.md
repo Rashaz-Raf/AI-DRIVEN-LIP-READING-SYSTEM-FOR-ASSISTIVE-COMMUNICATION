@@ -26,7 +26,7 @@ The system workflow consists of the following key stages:
 4. **Speech Synthesis with TTS**: The corrected text is converted to speech using a TTS engine (e.g., pyttsx3 or gTTS), allowing real-time auditory output.
 
 ### Methodology Flowchart
-<img src="https://github.com/Rashaz-Raf/AI_Powered_Video_Synthesis/blob/main/Workspace/Images/Methodology_FlowChart.png" alt="Methodology Flowchart" style="width: 50%;"/>
+<img src="https://github.com/Rashaz-Raf/AI-DRIVEN-LIP-READING-SYSTEM-FOR-ASSISTIVE-COMMUNICATION/blob/main/WORKSPACE/IMAGES/Methodology_Flowchart.png" alt="Methodology Flowchart" style="width: 50%;"/>
 
 ## Results
 The system has demonstrated accurate lip-reading performance in controlled environments and successfully vocalized coherent sentences. Sample outputs include:
