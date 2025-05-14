@@ -12,7 +12,7 @@ The potential of new assistive communication systems has been made possible by d
 ## System Overview
 The AI-Driven Lip Reading System for Assistive Communication is designed to interpret lip movements from silent video input and convert them into natural, spoken language in real time. At its core, the system uses the LipNet deep learning model to accurately predict text from visual cues, capturing nuances in lip motion. Once the initial transcription is generated, natural language processing (NLP) techniques are applied to enhance the grammatical structure and semantic clarity of the output. This corrected text is then passed through a text-to-speech (TTS) engine, which vocalizes the message, effectively giving a voice to users who are unable to speak. The entire pipeline is wrapped in a user-friendly Streamlit interface, ensuring easy interaction and seamless performance. The system is particularly valuable for individuals with speech impairments, providing them with a real-time, AI-powered communication tool.
 
-<img src="https://github.com/Rashaz-Raf/AI_Powered_Video_Synthesis/blob/main/Workspace/Images/Graphical_Abstract.png" alt="Methodology Flowchart" style="width: 50%;"/>
+<img src="https://github.com/Rashaz-Raf/AI-DRIVEN-LIP-READING-SYSTEM-FOR-ASSISTIVE-COMMUNICATION/blob/main/WORKSPACE/IMAGES/Graphical_Abstract.png" alt="Methodology Flowchart" style="width: 50%;"/>
 
 ## Problem Definition 
 People with speech impairments often struggle to communicate effectively, relying on slow or limited assistive tools. Traditional methods like text boards or sign language may not always be practical or accessible. This project aims to address these limitations by developing a system that reads lip movements and converts them into clear, spoken language. The key challenge lies in accurately interpreting silent visual speech and generating natural audio output in real time. This solution offers a more intuitive, efficient, and autonomous way for users to communicate in everyday scenarios.
@@ -43,14 +43,14 @@ The system has demonstrated accurate lip-reading performance in controlled envir
 
 These results highlight the system’s ability to produce intelligible and natural-sounding speech from silent video clips.
 
-##Features
+## Features
 - Real-time lip reading and speech synthesis
 - User-friendly interface
 - Supports multiple sentences and punctuation correction
 - Works offline using pre-trained models
 - Modular and scalable design for future enhancements
 
-##Technologies Used
+## Technologies Used
 - Python
 - TensorFlow / PyTorch (LipNet)
 - OpenCV
